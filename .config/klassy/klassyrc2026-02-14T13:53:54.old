@@ -1,0 +1,15 @@
+[Global]
+LookAndFeelSet=org.kde.breezedark.desktop
+
+[TitleBarOpacity]
+ActiveTitleBarOpacity=25
+InactiveTitleBarOpacity=50
+
+[Windeco]
+BoldButtonIcons=BoldIconsBold
+ButtonIconStyle=StyleFluent
+IconSize=IconMedium
+WindowCornerRadius=5
+
+[WindowOutlineStyle]
+ThinWindowOutlineStyleActive=WindowOutlineShadowColor
