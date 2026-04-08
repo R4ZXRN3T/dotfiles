@@ -5,7 +5,7 @@ CloseButtonIconColorActive=AsSelected
 CloseButtonIconColorInactive=AsSelected
 
 [Global]
-LookAndFeelSet=org.kde.klassykitedarkbottompanel.desktop
+LookAndFeelSet=org.kde.breezedark.desktop
 RefreshedConfig=6.5
 
 [TitleBarOpacity]
