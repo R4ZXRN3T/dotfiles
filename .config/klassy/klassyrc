@@ -12,6 +12,8 @@ RefreshedConfig=6.5
 ActiveTitleBarOpacity=50
 InactiveTitleBarOpacity=50
 OverrideActiveTitleBarOpacity=true
+TitleBarOpacityActive=50
+TitleBarOpacityInactive=50
 
 [Windeco]
 BoldButtonIcons=BoldIconsBold
