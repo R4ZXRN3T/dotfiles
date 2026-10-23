@@ -30,3 +30,7 @@ end
 ff
 
 set fish_greeting
+
+# Added by LM Studio CLI (lms)
+set -gx PATH $PATH /home/arian/.lmstudio/bin
+# End of LM Studio CLI section
